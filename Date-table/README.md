@@ -1,4 +1,6 @@
-This folder contains scripts to create a Date table. It allows to use the table in your queries instead of computing dates everywhere.
+This folder contains scripts to create a Date table. It allows to use the table in your queries instead of computing dates everywhere. 
+Create the function first and then run table-creation
+
 For information on the utility of Date table; 
 
 check out https://www.brentozar.com/archive/2014/12/simply-must-date-table-video/
